@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res/com.ensaf.etudiant.mtapplication"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_horizontal"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="5dp">
+
+        <com.ensaf.etudiant.mtapplication.font.MaterialDesignIconsTextView
+            android:id="@+id/list_item_expandable_travel_icon"
+            style="@style/TextViewAppearance.Title1"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="5dp"
+            android:layout_marginTop="5dp"
+            android:gravity="left"
+            android:padding="0dp"
+            android:textColor="@color/material_pink_500"
+            android:textSize="24dp"
+            android:layout_marginLeft="5dp"
+            android:layout_weight="1"
+            android:layout_gravity="center_vertical" />
+
+        <com.ensaf.etudiant.mtapplication.font.RobotoTextView
+            android:id="@+id/list_item_expandable_travel_textTitle"
+            style="@style/TextViewAppearance.Title1"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="5dp"
+            android:gravity="center_vertical"
+            android:textColor="@color/main_color_grey_700"
+            android:textSize="14dp"
+            app:typeface="robotoRegular"
+            android:layout_weight="1"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="0dp"
+            android:layout_marginTop="5dp" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="381dp"
+        android:layout_height="1dp"
+        android:background="@color/main_color_grey_300"
+        android:layout_gravity="center_horizontal" />
+
+</LinearLayout>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.ensaf.etudiant.mtapplication">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ExpandableTravelListViewActivity" />
+        <activity android:name=".ExpandableGoActivity" />
+        <activity android:name=".CategoriesListViewActivity" />
+        <activity android:name=".DragAndDropTravelAndSocialActivity" />
+        <activity android:name=".SwipToDissmissListViewActivity" />
+        <activity android:name=".GoogleCardsActivity" />
+        <activity android:name=".card.GoogleCardsMonumentsActivity" />
+        <activity android:name=".card.GoogleCardsTourismeActivity" />
+        <activity android:name=".card.GoogleCardsHistoriqueActivity" />
+        <activity android:name=".card.GoogleCardsSportActivity" />
+        <!--
+             The API key for Google Maps-based APIs is defined as a string resource.
+             (See the file "res/values/google_maps_api.xml").
+             Note that the API key is linked to the encryption key used to sign the APK.
+             You need a different API key for each encryption key, including the release key that is used to
+             sign the APK for publishing.
+             You can define the keys for the debug and release targets in src/debug/ and src/release/. 
+        -->
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/google_maps_key" />
+
+        <activity
+            android:name=".maps.monuments.MonumentsMapActivity"
+            android:label="@string/title_activity_monuments_map">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.ensaf.etudiant.mtapplication.card.GoogleCardsMonumentsActivity" />
+        </activity>
+        <!--
+ ATTENTION: This was auto-generated to add Google Play services to your project for
+     App Indexing.  See https://g.co/AppIndexing/AndroidStudio for more information.
+        -->
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <activity android:name=".card.GoogleCardsHotelsActivity" />
+        <activity android:name=".card.GoogleCardsAubergesActivity" />
+        <activity android:name=".card.GoogleCardsMotelsActivity" />
+        <activity android:name=".card.GoogleCardsPiecesActivity" />
+        <activity android:name=".card.GoogleCardsFastFoodActivity" />
+        <activity android:name=".card.GoogleCardsRestorentsActivity" />
+        <activity android:name=".card.GoogleCardsBistrotesActivity" />
+        <activity android:name=".card.GoogleCardsHotelRestorentsActivity" />
+        <activity android:name=".card.GoogleCardsCaffeeActivity" />
+        <activity android:name=".card.GoogleCardsBarActivity" />
+        <activity android:name=".card.GoogleCardsClubsActivity"></activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MT Fés</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <!-- Navigation Drawer icon codes -->
+    <string name="drawer_icon_splash_screens">&#xe82c;</string>
+    <string name="drawer_icon_progress_bars">&#xe84c;</string>
+    <!-- <string name="drawer_icon_buttons">&#xe802;</string> -->
+    <string name="drawer_icon_shape_image_views">&#xe82b;</string>
+    <string name="drawer_icon_text_views">&#xe852;</string>
+    <string name="drawer_icon_search_bars">&#xe84f;</string>
+    <string name="drawer_icon_login_page">&#xe842;</string>
+    <!-- <string name="drawer_icon_audio_player">&#xe807;</string> -->
+    <!-- <string name="drawer_icon_video_player">&#xe808;</string> -->
+    <string name="drawer_icon_image_gallery">&#xe83c;</string>
+    <string name="drawer_icon_check_and_radio_buttons">&#xe833;</string>
+    <!-- <string name="drawer_icon_calendars">&#xe811;</string> -->
+    <string name="drawer_icon_left_menus">&#xe83f;</string>
+    <string name="drawer_icon_list_views">&#xe841;</string>
+    <string name="drawer_icon_parallax">&#xe846;</string>
+    <!-- <string name="drawer_icon_dialogs">&#xe803;</string> -->
+
+    <string name="drawer_icon_linked_in">&#xe80e;</string>
+    <string name="drawer_icon_blog">&#xe81e;</string>
+    <string name="drawer_icon_git_hub">&#xe808;</string>
+    <string name="drawer_icon_instagram">&#xe80c;</string>
+
+    <!-- Navigation Drawer icon titles -->
+    <string name="drawer_title_splash_screens">Splash Screens</string>
+    <string name="drawer_title_progress_bars">Progress Bars</string>
+    <!-- <string name="drawer_title_buttons">Buttons</string> -->
+    <string name="drawer_title_shape_image_views">Shape Image Views</string>
+    <string name="drawer_title_text_views">Text Views</string>
+    <string name="drawer_title_search_bars">Search Bars</string>
+    <string name="drawer_title_login_page">Login Pages</string>
+    <!-- <string name="drawer_title_audio_player">Audio Player</string> -->
+    <!-- <string name="drawer_title_video_player">Video Player</string> -->
+    <string name="drawer_title_image_gallery">Image Gallery</string>
+    <string name="drawer_title_check_and_radio_buttons">Check Boxes</string>
+    <!-- <string name="drawer_title_calendars">Calendars</string> -->
+    <string name="drawer_title_left_menus">Left Menus</string>
+    <string name="drawer_title_list_views">List Views</string>
+    <string name="drawer_title_parallax">Parallax</string>
+    <!-- <string name="drawer_title_dialogs">Dialogs</string> -->
+
+    <string name="drawer_title_linked_in">LinkedIn</string>
+    <string name="drawer_title_blog">Blog</string>
+    <string name="drawer_title_git_hub">GitHub</string>
+    <string name="drawer_title_instagram">Instagram</string>
+
+    <!-- Fontello icons -->
+    <string name="fontello_logo">&#xe802;</string>
+    <string name="fontello_search">&#xe816;</string>
+    <string name="fontello_x_mark">&#xe81f;</string>
+    <string name="fontello_x_mark_masked">&#xe806;</string>
+    <string name="fontello_microfon">&#xe80f;</string>
+    <string name="fontello_user">&#xe81b;</string>
+    <string name="fontello_password">&#xe823;</string>
+    <string name="fontello_upload">&#xe81a;</string>
+    <string name="fontello_play">&#xe813;</string>
+    <string name="fontello_heart_empty">&#xe80b;</string>
+    <string name="fontello_heart_full">&#xe80a;</string>
+    <string name="fontello_drag_and_drop">&#xe821;</string>
+
+    <!-- Material Design Icons -->
+    <string name="material_icon_bike">&#xe915;</string>
+    <string name="material_icon_go">&#xea04;</string>
+    <string name="material_icon_sleep">&#xe9c2;</string>
+    <string name="material_icon_eat">&#xeac6;</string>
+    <string name="material_icon_play">&#xe831;</string>
+    <string name="material_icon_drink">&#xea08;</string>
+    <string name="material_icon_party">&#xe937;</string>
+    <string name="material_icon_shop">&#xe858;</string>
+    <string name="material_icon_account">&#xe800;</string>
+    <string name="material_icon_account_multiple">&#xe8dc;</string>
+    <string name="material_icon_message">&#xea12;</string>
+    <string name="material_icon_image_box">&#xe952;</string>
+    <string name="material_icon_video">&#xeb39;</string>
+    <string name="material_icon_clock">&#xe881;</string>
+    <string name="material_icon_star_outline">&#xeade;</string>
+    <string name="material_icon_star">&#xeadf;</string>
+    <string name="material_icon_share">&#xeac0;</string>
+    <string name="material_icon_plus_box">&#xea7f;</string>
+    <string name="material_icon_check">&#xe867;</string>
+    <string name="material_icon_undo">&#xeb2c;</string>
+    <string name="material_icon_friends">&#xe8d5;</string>
+    <string name="material_icon_email">&#xe99c;</string>
+    <string name="material_icon_password">&#xe9fa;</string>
+    <string name="material_icon_flag">&#xe96a;</string>
+    <string name="material_icon_city">&#xe878;</string>
+    <string name="material_icon_unfold_more">&#xeb2f;</string>
+    <string name="material_icon_home_variant">&#xe9bd;</string>
+    <string name="material_icon_home">&#xe9be;</string>
+    <string name="material_icon_hotels">&#xeae3;</string>
+    <string name="material_icon_date">&#xe848;</string>
+    <string name="material_icon_like">&#xeb03;</string>
+    <string name="material_icon_bookmark">&#xe921;</string>
+    <string name="material_icon_location">&#xE567;</string>
+
+    <!-- Content description strings -->
+    <string name="cd_background_image">background image</string>
+    <string name="cd_main_image">main image</string>
+
+    <!-- TextView related strings -->
+    <string name="typography1">Typography I</string>
+    <string name="typography2">Typography II</string>
+    <string name="typography3">Typography III</string>
+    <string name="material_design">Material design</string>
+    <string name="material_design_variation">Material design variation</string>
+    <string name="all_set_by_google_instructions_of_material_design">All set by Google instructions of Material Design</string>
+    <string name="lorem_ipsum_long">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</string>
+    <string name="lorem_ipsum_short">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</string>
+    <string name="thiner_and_lighter_version">Thiner and lighter version of Material design</string>
+    <string name="thicker_and_darker_version">Thicker and darker version of Material design</string>
+    <string name="number_of_images">%d image(s)</string>
+    <string name="new_york">Fés</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="email">E-mail</string>
+    <string name="country">Country</string>
+    <string name="city">Ville</string>
+    <string name="welcome">Bienvenue</string>
+    <string name="undo_deletion">UNDO DELETION</string>
+    <string name="undo_deletion_travel">WOOHOO! &#160;&#160;\nI\'VE MADE IT!</string>
+    <string name="download">DOWNLOAD</string>
+    <string name="done">DONE</string>
+    <string name="error">ERROR</string>
+    <string name="login">LOGIN</string>
+    <string name="register">REGISTER</string>
+    <string name="skip">SKIP</string>
+    <string name="raised">RAISED</string>
+    <string name="flat">FLAT</string>
+
+    <!-- For Update -->
+    <string name="confirm_exit">Press Back button again to exit</string>
+    <string name="Fes_city_tour">Fés City tour</string>
+    <string name="time_walking_tour">3:30min walking tour</string>
+
+    <!-- For Monuments -->
+    <string name="monuments_bab_boujloud">Bab Boujloud</string>
+    <string name="monuments_description_bab_boujloud">
+		Construite une première fois au XIème siècle,
+		elle a été restaurée et réaménagée à plusieurs reprises.
+		En 1913, sous le règne du Sultan Alaouite Moulay Hafid,
+		cette porte a été décorée en céramique émaillée, bleue d’un côté et
+		verte de l autre. La face bleue de la porte donne sur l extérieur de la Médina
+    </string>
+
+    <string name="monuments_fountaine_nejjarine">Fontaine Nejjarine</string>
+    <string name="monuments_description_fountaine_nejjarine">
+        La fontaine Nejjarine est la plus belle des 70 fontaines publiques que compte Fès.
+    </string>
+
+    <string name="monuments_Palais_El_Mokri">Palais El Mokri</string>
+    <string name="monuments_description_Palais_El_Mokri">
+		Le palais El Mokri fait partie du patrimoine du Maroc.
+		Construit en plein médina,
+		il reflète l art ancestral du Maroc qui peut s\'en orgueillir
+		d avoir une vingtaine de palais à la médina de Fès.
+		Quelques uns ont gardé leur cachet d époque ou on peut aussi admirer
+		la finesse du travail du bois,
+		des zelliges et du plâtre (escaliers et mobiliers...)
+		des menuisiers ébénistes ou encore la délicatesse des fers forgés
+		véritablement sculptés aux scalpels par des maîtres forges qui étaient
+		des artistes remarquables.
+		Le dallage de marbre blanc (de carrare) et noir se disputent
+		l attention avec de riches revêtements de mosaïques en céramique
+		finement découpées, les plafonds et coupoles sculpté et peint,
+		les menuiseries baroques serties de verres sablés de Venise
+		et de couleur de Bagdad.
+    </string>
+
+    <string name="monuments_Borj_Nord">Borj Nord</string>
+    <string name="monuments_description_Borj_Nord">
+		Le Borj Nord est un fort élevé en 1588 au nord de Fès, au Maroc,
+		sur ordre du sultan Ahmed al-Mansur,
+		dont le plan s inspire de l architecture des forteresses portugaises du xvie siècle.
+		Il était l un des plus grands postes de surveillance de la ville de Fès et servait
+		également de fabrique de canons.
+		De plan carré, les quatre coins sont dotés de quatre bastions en forme de fers de lance.
+		La terrasse est conçue de manière à résister au poids et aux tirs des canons.
+		Ayant servi de caserne puis de prison du temps du Protectorat français,
+		le monument abrite depuis 1963 le Musée des Armes.
+		aussi Borj Sud, Borj Touil, Borj Sidi Bounafaa, Borj Cheikh Ahmed
+    </string>
+
+    <string name="historique_Kairaouine">Kairaouine Mosque (Mosque of al-Qarawiyyin)</string>
+    <string name="historique_description_Kairaouine">
+		Al Quaraouiyine (en arabe : القرويين) est une université située à Fès, au Maroc.
+		Selon la tradition, sa construction débute en 859 sous le règne de la dynastie idrisside.
+		Elle est considérée comme l une des plus anciennes universités dans
+		le monde encore en activité1.
+    </string>
+
+    <string name="historique_Medersa_Bou_Inania">Medersa Bou Inania</string>
+    <string name="historique_description_Medersa_Bou_Inania">
+		La Médersa Bou Inania (arabe المدرسة أبو عنانية بفاس)
+		est une médersa édifiée à Fès, au Maroc, entre 1350 et 1355 pour
+		le sultan Abou Inan Faris (r. 1348 - 59),
+		soit sous la dynastie des Mérinides.
+		Elle est la seule médersa de la ville comportant un minaret,
+		et elle jouxtait aussi des boutiques permettant son financement,
+		ainsi que de vastes latrines, qui témoignent de son caractère public.
+		En effet, la médersa fonctionnait aussi bien comme une école
+		que comme mosquée du vendredi.
+    </string>
+
+    <string name="historique_Attarin_Medersa">Attarin Medersa</string>
+    <string name="historique_description_Attarin_Medersa">
+	    La Médersa Attarine est une ancienne école coranique de Fès au Maroc.
+		Elle fut construite entre 1323 et 1325 par le sultan mérinide Abou Saîd Othman.
+		Elle fut nommée d après le Souk de parfums et d épices attenant,
+		Souk El Attarine. Elle se situe à proximité de la Quaraouiyine1
+    </string>
+
+    <string name="Sport_Complexe_sportif">Complexe sportif de Fès</string>
+    <string name="Sport_description_Complexe_sportif">
+		Le Complexe sportif de Fès est un stade de football localisé dans
+		la ville de Fès et plus précisément sur la route menant à Sefrou,
+		il est d un style architectural typiquement marocain.
+		Situé sur une superficie de 40 hectares,
+		le complexe sportif de Fès peut accueillir 37 000 spectateurs tous assis.
+		Il est doté d une piste d athlétisme
+		en tartan outre des annexes susceptibles
+		d accueillir des compétitions de haut niveau.
+    </string>
+
+    <string name="Sport_clubs_football">Clubs de football</string>
+    <string name="Sport_description_clubs_football">
+		La ville de Fés est représentée par deux équipes de football,
+		la première est le Wydad athlétique de Fès WAF fondée en 1948 est
+		joue actuellement en deuxième division du championnat marocain,
+		la seconde est le Maghreb Association sportive de Fès
+		(en arabe : المغرب الرياضي الفاسي) qui est un club omnisports
+		marocain fondé en 1946. Le MAS est la première équipe marocaine
+		à atteindre les seizièmes de finale de la Coupe de France en
+		1954 contre Red Star à lépoque à Paris.
+		Le MAS est un des clubs les plus titrés du royaume,
+		avec un palmarès remarquable : Championnat du Maroc : (4)
+    </string>
+
+    <string name="Sport_"></string>
+    <string name="Sport_description_">
+
+    </string>
+    <string name="app_header">MT Fes</string>
+    <string name="go_header">Où aller</string>
+    <string name="title_activity_monuments_map">Map</string>
+</resources>
